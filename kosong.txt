@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 qwertyuiopasdfghjkl;zxcvbnm,
+=======
+konflik ga ya
+tes 123
+>>>>>>> 69c6c7eeefdf91ea0ca6cdfd95642c61e667f257
